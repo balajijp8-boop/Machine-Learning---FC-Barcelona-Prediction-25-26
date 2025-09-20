@@ -23,15 +23,31 @@ This project simulates and predicts the outcomes of Barcelona’s 38 La Liga mat
    ```bash
    git clone https://github.com/balajijp8-boop/Machine-Learning---FC-Barcelona-Prediction-25-26.git
 
-**Example Output (first 10 matches)**
-*Match	Predicted*    *Outcome*
-Barcelona vs Getafe	Barcelona Win
-Real Oviedo vs Barcelona	Opponent Win
-Barcelona vs Real Sociedad	Barcelona Win
-Sevilla vs Barcelona	Opponent Win
-Barcelona vs Girona	Barcelona Win
-Real Madrid vs Barcelona	Opponent Win
-Barcelona vs Elche	Barcelona Win
-Celta Vigo vs Barcelona	Opponent Win
-Barcelona vs Athletic Club	Barcelona Win
-Barcelona vs Alavés	Barcelona Win
+## Navigate into the project directory
+
+```bash
+cd Machine-Learning---FC-Barcelona-Prediction-25-26
+
+## Install Required Packages
+
+```bash
+pip install pandas matplotlib seaborn
+
+   
+## Example Output (first 3 matches)
+
+| Match                     | Predicted Outcome  |
+|----------------------------|-----------------|
+| Barcelona vs Getafe        | Barcelona Win    |
+| Real Oviedo vs Barcelona   | Opponent Win     |
+| Barcelona vs Real Sociedad | Barcelona Win    |
+
+## Contributing
+
+- Improve prediction models  
+- Add new visualizations  
+- Update with real match results  
+
+## License
+
+This project is open-source and free to use for educational and research purposes.
