@@ -21,7 +21,7 @@ This project simulates and predicts the outcomes of Barcelona’s 38 La Liga mat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/balajijp8-boop/Machine-Learning---FC-Barcelona-Prediction-25-26.git
+git clone https://github.com/balajijp8-boop/FC-Barcelona-Prediction-25-26-using-ML...git
 ````
 
 2. Navigate into the project directory:
